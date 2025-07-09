@@ -1,7 +1,7 @@
 打开macOS终端程序或者ssh远程登录到macOS
 
 1. 运行脚本
-bash ./start_nexus_screen.sh
+bash ./mac_start_nexus_nodes.sh
 
 2. 查看运行中的节点
 screen -ls | grep 'nexus_node_'
